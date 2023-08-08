@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Software Enginner</h3>
 
 - 🌱 I’m currently learning **React,node and MEAN stack**
 
@@ -18,8 +18,8 @@
 
 
 
-### Hi there 👋
-
+<!--### Hi there 👋
+-->
 <!--
 **malekk123/malekk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
